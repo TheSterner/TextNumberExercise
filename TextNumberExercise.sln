@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextNumberExercise", "TextNumberExercise\TextNumberExercise.csproj", "{4831A4C4-EFBD-485B-B074-225D819FB937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4831A4C4-EFBD-485B-B074-225D819FB937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4831A4C4-EFBD-485B-B074-225D819FB937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4831A4C4-EFBD-485B-B074-225D819FB937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4831A4C4-EFBD-485B-B074-225D819FB937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30EA6ECC-9519-4DB9-AA32-888529F3DC40}
+	EndGlobalSection
+EndGlobal
